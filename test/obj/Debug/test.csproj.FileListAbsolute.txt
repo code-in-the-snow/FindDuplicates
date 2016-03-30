@@ -1,0 +1,6 @@
+c:\users\owner\documents\GitHub\test\bin\Debug\test.exe.config
+c:\users\owner\documents\GitHub\test\bin\Debug\test.exe
+c:\users\owner\documents\GitHub\test\bin\Debug\test.pdb
+c:\users\owner\documents\GitHub\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\GitHub\test\obj\Debug\test.exe
+c:\users\owner\documents\GitHub\test\obj\Debug\test.pdb

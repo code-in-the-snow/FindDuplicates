@@ -1,0 +1,6 @@
+c:\users\owner\documents\GitHub\Collections\bin\Debug\Collections.exe.config
+c:\users\owner\documents\GitHub\Collections\bin\Debug\Collections.exe
+c:\users\owner\documents\GitHub\Collections\bin\Debug\Collections.pdb
+c:\users\owner\documents\GitHub\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\GitHub\Collections\obj\Debug\Collections.exe
+c:\users\owner\documents\GitHub\Collections\obj\Debug\Collections.pdb

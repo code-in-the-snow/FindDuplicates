@@ -1,0 +1,6 @@
+c:\users\owner\documents\GitHub\FindDuplicateFiles\bin\Debug\FindDuplicateFiles.exe.config
+c:\users\owner\documents\GitHub\FindDuplicateFiles\bin\Debug\FindDuplicateFiles.exe
+c:\users\owner\documents\GitHub\FindDuplicateFiles\bin\Debug\FindDuplicateFiles.pdb
+c:\users\owner\documents\GitHub\FindDuplicateFiles\obj\Debug\FindDuplicateFiles.exe
+c:\users\owner\documents\GitHub\FindDuplicateFiles\obj\Debug\FindDuplicateFiles.pdb
+c:\users\owner\documents\GitHub\FindDuplicateFiles\obj\Debug\FindDuplicateFiles.csprojResolveAssemblyReference.cache
